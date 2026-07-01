@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 st.title('DCS Project')
 st.markdown("<h1 style='text-align: center;'>Online Examination System</h1>", unsafe_allow_html=True)
 left_col, middle_col, right_col = st.columns([1.5, 2, 1.5])
